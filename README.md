@@ -1,0 +1,1 @@
+# Centralized-and-Parallel-Algorithm-for-Graph-Triangulation
